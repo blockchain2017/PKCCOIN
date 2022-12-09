@@ -11,7 +11,7 @@
 
 # PKC Coin Marketplace Platform
 
-PKCCOIN Marketplace is an ecommerce platform. We have many products available for sale from members. We use ChaiyoCoin as a medium of payment. Our platform has compiled products in each category to facilitate product search. And a convenient, fast payment method via Blockchain is safe for customers. And every transaction made through Chaiyocoin will receive a 10% discount on every transaction.
+PKC COIN Marketplace is an ecommerce platform. We have many products available for sale from members. We use PKC COIN as a medium of payment. Our platform has compiled products in each category to facilitate product search. And a convenient, fast payment method via Blockchain is safe for customers. And every transaction made through PKC COIN will receive a 10% discount on every transaction.
 
 # Payment gateway
 PKC COIN ecommerce platform we have create tokens on Binance smart chain as a highly secure blockchain payment gateway with low fees and support for trading on top exchanges. Moreover, our marketing team is expanding as a payment gateway on coinpayment.net our growing partnerships in the future.
