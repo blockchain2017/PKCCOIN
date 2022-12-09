@@ -1,4 +1,4 @@
-# Crypto Platform for Staking & Marketplace platform.Make passive income $BUY $HOLD $EARN
+# Crypto Platform for Staking & Marketplace platform. make passive income $BUY $HOLD $EARN
 
 <div align="center"><img src="https://pkcworld.com/index/wp-content/uploads/2018/10/500x500.jpg)" /><br />
 </div>
