@@ -1,4 +1,4 @@
-# Crypto Platform for Staking & Marketplace platform.
+# PKC Coin Crypto Platform for Staking & Marketplace platform.
 
 <div align="center"><img src="https://pkcworld.com/index/wp-content/uploads/2018/10/500x500.jpg)" /><br />
 </div>
