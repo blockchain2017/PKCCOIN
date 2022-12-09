@@ -4,7 +4,7 @@
 </div>
 <div align="center">
   <h1><br />
-    <a href="https://www.pkcworld.com/" target="_blank">GO TO Website<br />
+    <a href="https://www.pkcworld.com/" target="_blank">GO To Website<br />
     </a></h1>
 </div>
 
