@@ -31,10 +31,10 @@ Enjoy regular profits You rewards are generated daily until the date lock stake 
 
 📄 Whitepaper : https://docs.pkcworld.com
 
-👨🏿‍🤝‍👨🏿Twitter : https://twitter.com/
+👨🏿‍🤝‍👨🏿Twitter : https://twitter.com/mrtime789
 
-👨🏿‍🤝‍👨🏿Telegram Group : https://t.me/
+👨🏿‍🤝‍👨🏿Telegram Group : https://t.me/+q0wwJG3m0xdmYmQ1
 
-👨🏿‍🤝‍👨🏿Youtube Chanel : https://www.youtube.com
+👨🏿‍🤝‍👨🏿Youtube Chanel : https://www.youtube.com/@PKCCOIN
 
 🔒 Smart Contract : https://bscscan.com/token/0x6807b69118a225bab89014bd3b5e014438c0665b
