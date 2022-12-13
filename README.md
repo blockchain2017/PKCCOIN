@@ -1,6 +1,6 @@
 # PKC Coin Crypto for Payment, Staking, Marketplace platform.
 
-<div align="center"><img src="https://pkccoin.com/index/wp-content/uploads/2018/10/500x500.jpg)" /><br />
+<div align="center"><img src="https://pkccoin.com/wp-content/uploads/2018/10/500x500.jpg)" /><br />
 </div>
 <div align="center">
   <h1><br />
