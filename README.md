@@ -1,10 +1,10 @@
 # PKC Coin Crypto for Payment, Staking, Marketplace platform.
 
-<div align="center"><img src="https://pkcworld.com/index/wp-content/uploads/2018/10/500x500.jpg)" /><br />
+<div align="center"><img src="https://pkccoin.com/index/wp-content/uploads/2018/10/500x500.jpg)" /><br />
 </div>
 <div align="center">
   <h1><br />
-    <a href="https://www.pkcworld.com/" target="_blank">Go To Website<br />
+    <a href="https://www.pkccoin.com/" target="_blank">Go To Website<br />
     </a></h1>
 </div>
 
@@ -27,9 +27,9 @@ Enjoy regular profits You rewards are generated daily until the date lock stake 
 
 # Contact PKCCOIN (PKC)
 
-⭕ Website: https://www.pkcworld.com
+⭕ Website: https://www.pkccoin.com
 
-📄 Whitepaper : https://docs.pkcworld.com
+📄 Whitepaper : https://docs.pkccoin.com
 
 👨🏿‍🤝‍👨🏿Twitter : https://twitter.com/mrtime789
 
